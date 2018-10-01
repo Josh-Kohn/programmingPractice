@@ -1,12 +1,6 @@
 
-print("Hello")
-
-print("__name__ value: ", __name__)
-
-
 def main():
-    print("python main function")
 
+     print("Hello World")
 
-if __name__ == '__main__':
-    main()
+main()
