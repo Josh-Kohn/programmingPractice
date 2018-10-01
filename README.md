@@ -19,7 +19,18 @@ The assignment is to create a python module which simply prints "hello world".
 
 Requirements:
 
-* I should be able to verify it by running `python hello_world.py`
+* I should be able to verify it by running `python3 hello_world.py`
 * The output of the program should be `hello world`
 * There is a function called `main` which is executed to print the message
 
+Functions are defined via `def <function name>(<parameters>):`. If I wanted to
+define a function called `foobar` with no parameters, I would write it as:
+
+```python
+# function definition
+def foobar():
+  # inner logic here...
+
+# call foobar here
+foobar()
+```
