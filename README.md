@@ -34,3 +34,19 @@ def foobar():
 # call foobar here
 foobar()
 ```
+
+#### Fun with functions
+
+Define a function that reads `input` and converts the received input to a
+numerical object (e.g. `float`).
+
+Define a function that computes the sum of two numerical values.
+
+Define a function that loops infinitely and constantly appends your input
+to some value that will keep growing. Don't forget to `print` the value
+as it grows, so that you know it's growing. You could use a `while True:`
+loop to achieve this. Furthermore, you may want to create a "phrase" that
+will `break` you out of the loop.
+
+Define a "main" function that combines the functions above to write an
+`adder.py` program.
