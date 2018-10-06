@@ -50,3 +50,6 @@ will `break` you out of the loop.
 
 Define a "main" function that combines the functions above to write an
 `adder.py` program.
+
+**Note**: Each function should have a "docstring" explaining what each parameter
+to the function is and what the function does.
